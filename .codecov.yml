@@ -2,7 +2,5 @@ coverage:
   status:
     project:
       default: false
-      tests:
-        paths: tests
-      two_factor:
+      user_sessions:
         paths: user_sessions
